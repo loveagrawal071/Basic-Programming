@@ -1,3 +1,3 @@
 # Basic-Programming
 Rudimentary programming exercises
-Contains some practice questions 
+contains some practice questions 
